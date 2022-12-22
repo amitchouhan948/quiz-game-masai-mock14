@@ -1,0 +1,1177 @@
+[
+        {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
+        "correct_answer": "Richard Branson",
+        "incorrect_answers": [
+        "Alan Sugar",
+        "Richard Branson",
+        "Donald Trump",
+        "Bill Gates"
+        ]
+        },
+        {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "correct_answer": "Demolition",
+        "incorrect_answers": [
+        "The Dream Team",
+        "The Bushwhackers",
+        "Demolition",
+        "The British Bulldogs"
+        ]
+        },
+        {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "How would one say goodbye in Spanish?",
+        "correct_answer": "Adi&oacute;s",
+        "incorrect_answers": [
+            "Adi&oacute;s",
+        " Hola",
+        "Au Revoir",
+        "Salir"
+        ]
+        },
+        {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "correct_answer": "Cancer",
+        "incorrect_answers": [
+        "Libra",
+        "Virgo",
+        "Sagittarius",
+        "Cancer"
+        ]
+        },
+        {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+        "correct_answer": "Wax sculptures",
+        "incorrect_answers": [
+        "Designer clothing",
+        "Unreleased film reels",
+        "Wax sculptures",
+        "Vintage cars"
+        ]
+        },
+        {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of these colours is NOT featured in the logo for Google?",
+        "correct_answer": "Pink",
+        "incorrect_answers": [
+            "Pink",
+        "Yellow",
+        "Blue",
+        "Green"
+        ]
+        },
+        {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Who is depicted on the US hundred dollar bill?",
+        "correct_answer": "Benjamin Franklin",
+        "incorrect_answers": [
+        "George Washington",
+        "Abraham Lincoln",
+        "Benjamin Franklin",
+        "Thomas Jefferson"
+        ]
+        },
+        {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What is the name of Poland in Polish?",
+        "correct_answer": "Polska",
+        "incorrect_answers": [
+        "Pupcia",
+        "Polszka",
+        "P&oacute;land",
+        "Polska"
+        ]
+        },
+        {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "What was the first ever London Underground line to be built?",
+        "correct_answer": "Metropolitan Line",
+        "incorrect_answers": [
+        "Circle Line",
+        "Metropolitan Line",
+        "Bakerloo Line",
+        "Victoria Line"
+        ]
+        },
+        {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which of the following is not the host of a program on NPR?",
+        "correct_answer": "Ben Shapiro",
+        "incorrect_answers": [
+        "Terry Gross",
+        "Ira Glass",
+        "Ben Shapiro",
+        "Peter Sagal"
+        ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What name represents the letter &quot;M&quot; in the NATO phonetic alphabet?",
+            "correct_answer": "Mike",
+            "incorrect_answers": [
+            "Matthew",
+            "Mark",
+            "Max",
+            "Mike"
+            ]
+            },
+            {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+            "correct_answer": "Yale University",
+            "incorrect_answers": [
+            "Princeton University",
+            "Yale University",
+            "Harvard University",
+            "Columbia University"
+            ]
+            },
+            {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the very first video uploaded to YouTube?",
+            "correct_answer": "Me at the zoo",
+            "incorrect_answers": [
+            "tribute",
+            "Me at the zoo",
+            "carrie rides a truck",
+            "Her new puppy from great grandpa vern."
+            ]
+            },
+            {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the destination of the missing flight MH370?",
+            "correct_answer": "Beijing",
+            "incorrect_answers": [
+            "Kuala Lumpur",
+            "Singapore",
+            "Tokyo",
+            "Beijing"
+            ]
+            },
+            {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+            "correct_answer": "Bullfighting",
+            "incorrect_answers": [
+            "Fiestas",
+            "Flamenco",
+            "Bullfighting",
+            "Mariachi"
+            ]
+            },
+            {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?",
+            "correct_answer": "Shiatsu",
+            "incorrect_answers": [
+                "Shiatsu",
+            "Ukiyo",
+            "Majime",
+            "Ikigai"
+            ]
+            },
+            {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was Nintendo founded?",
+            "correct_answer": "September 23rd, 1889",
+            "incorrect_answers": [
+            "October 19th, 1891",
+            "March 4th, 1887",
+            "September 23rd, 1889",
+            "December 27th, 1894"
+            ]
+            },
+            {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The new One World Trade Center in Manhattan, New York City was designed by which architect? ",
+            "correct_answer": "David Childs",
+            "incorrect_answers": [
+                "David Childs",
+            "Bjarke Ingels",
+            "Michael Arad",
+            "Fumihiko Maki"
+            ]
+            },
+            {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was Mountain Dew&#039;s original slogan?",
+            "correct_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+            "incorrect_answers": [
+            "Give Me A Dew",
+            "Do The Dew",
+            "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+            "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+            ]
+            },
+            {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a &quot;Guardians of the Galaxy&quot; themed ride?",
+            "correct_answer": "Twilight Zone Tower of Terror",
+            "incorrect_answers": [
+            "The Haunted Mansion",
+            "Pirates of the Caribbean",
+            "Peter Pan&#039;s Flight",
+            "Twilight Zone Tower of Terror"
+            ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What is the airspeed velocity of an unladen swallow?",
+                "correct_answer": "24 MPH",
+                "incorrect_answers": [
+                "15 MPH",
+                "20 MPH",
+                "24 MPH",
+                "200 MPH"
+                ]
+                },
+                {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+                "correct_answer": "Parlor",
+                "incorrect_answers": [
+                "Open Room",
+                "Sitting Room",
+                "Loft",
+                "Parlor"
+                ]
+                },
+                {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+                "correct_answer": "The Goth Family",
+                "incorrect_answers": [
+                "The Family",
+                "The Simoleon Family",
+                "The Goth Family",
+                "The Proud Family"
+                ]
+                },
+                {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What is the romanized Korean word for &quot;heart&quot;?",
+                "correct_answer": "Simjang",
+                "incorrect_answers": [
+                    "Simjang",
+                "Aejeong",
+                "Jeongsin",
+                "Segseu"
+                ]
+                },
+                {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+                "correct_answer": "Qamar",
+                "incorrect_answers": [
+                "Najma",
+                "Kawkab",
+                "Shams",
+                "Qamar"
+                ]
+                },
+                {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+                "correct_answer": "Turkish",
+                "incorrect_answers": [
+                "German",
+                "Turkish",
+                "Danish",
+                "Polish"
+                ]
+                },
+                {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What year was the RoboSapien toy robot released?",
+                "correct_answer": "2004",
+                "incorrect_answers": [
+                "2000",
+                "2001",
+                "2004",
+                "2006"
+                ]
+                },
+                {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "If you planted the seeds of Quercus robur, what would grow?",
+                "correct_answer": "Trees",
+                "incorrect_answers": [
+                "Grains",
+                "Vegetables",
+                "Trees",
+                "Flowers"
+                ]
+                },
+                {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "The word &quot;astasia&quot; means which of the following?",
+                "correct_answer": "The inability to stand up",
+                "incorrect_answers": [
+                "The inability to make decisions",
+                "The inability to concentrate on anything",
+                "The inability to stand up",
+                "A feverish desire to rip one&#039;s clothes off"
+                ]
+                },
+                {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which of these cities does NOT have a United States Minting location?",
+                "correct_answer": "St. Louis, MO",
+                "incorrect_answers": [
+                "San Fransisco, CA",
+                "Philidelphia, PA",
+                "West Point, NY",
+                "St. Louis, MO"
+                ]
+                },
+                {
+                    "category": "Science & Nature",
+                    "type": "multiple",
+                    "difficulty": "hard",
+                    "question": "What is the molecular formula of Glucose?",
+                    "correct_answer": "C6H12O6",
+                    "incorrect_answers": [
+                    "C2H4O2",
+                    "K+",
+                    "CH4",
+                    "C6H12O6"
+                    ]
+                    },
+                    {
+                    "category": "Science & Nature",
+                    "type": "multiple",
+                    "difficulty": "hard",
+                    "question": "Which of these chemical compounds is NOT found in gastric acid?",
+                    "correct_answer": "Sulfuric acid",
+                    "incorrect_answers": [
+                    "Hydrochloric acid",
+                    "Potassium chloride",
+                    "Sulfuric acid",
+                    "Sodium chloride"
+                    ]
+                    },
+                    {
+                    "category": "Science & Nature",
+                    "type": "multiple",
+                    "difficulty": "hard",
+                    "question": "Which one of these is scientific term for &quot;Brain Freeze&quot;?",
+                    "correct_answer": "Sphenopalatine Ganglioneuralgia",
+                    "incorrect_answers": [
+                    "Hyacinthoides Italica",
+                    "Amaranthus Retroflexus",
+                    "Amblyomma Americanum",
+                    "Sphenopalatine Ganglioneuralgia"
+                    ]
+                    },
+                    {
+                    "category": "Science & Nature",
+                    "type": "multiple",
+                    "difficulty": "hard",
+                    "question": "&quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?",
+                    "correct_answer": "Catholic",
+                    "incorrect_answers": [
+                    "Christian",
+                    "Catholic",
+                    "Jewish",
+                    "Islamic"
+                    ]
+                    },
+                    {
+                    "category": "Science & Nature",
+                    "type": "multiple",
+                    "difficulty": "hard",
+                    "question": "A comet&#039;s gaseous envelope (which creates the tail) is called what?",
+                    "correct_answer": "The coma",
+                    "incorrect_answers": [
+                    "The wake",
+                    "The coma",
+                    "The backwash",
+                    "The ablative"
+                    ]
+                    },
+                    {
+                    "category": "Science & Nature",
+                    "type": "multiple",
+                    "difficulty": "hard",
+                    "question": "The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?",
+                    "correct_answer": "To know",
+                    "incorrect_answers": [
+                        "To know",
+                    "To measure",
+                    "To live",
+                    "To count"
+                    ]
+                    },
+                    {
+                    "category": "Science & Nature",
+                    "type": "multiple",
+                    "difficulty": "hard",
+                    "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+                    "correct_answer": "Urea",
+                    "incorrect_answers": [
+                    "Propane",
+                    "Ethanol",
+                    "Urea",
+                    "Formaldehyde"
+                    ]
+                    },
+                    {
+                    "category": "Science & Nature",
+                    "type": "multiple",
+                    "difficulty": "hard",
+                    "question": "Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?",
+                    "correct_answer": "Cretaceous-Paleogene",
+                    "incorrect_answers": [
+                    "Triassic&ndash;Jurassic",
+                    "Cretaceous-Paleogene",
+                    "Permian&ndash;Triassic",
+                    "Ordovician&ndash;Silurian"
+                    ]
+                    },
+                    {
+                    "category": "Science & Nature",
+                    "type": "multiple",
+                    "difficulty": "hard",
+                    "question": "What is the most potent toxin known?",
+                    "correct_answer": "Botulinum toxin",
+                    "incorrect_answers": [
+
+                    "Ricin",
+                    "Cyanide",
+                    "Asbestos",
+                    "Botulinum toxin"
+                    ]
+                    },
+                    {
+                    "category": "Science & Nature",
+                    "type": "multiple",
+                    "difficulty": "hard",
+                    "question": "In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",
+                    "correct_answer": "Noether&#039;s Theorem",
+                    "incorrect_answers": [
+                        "Noether&#039;s Theorem",
+                    "Bell&#039;s Theorem",
+                    "Wick&#039;s Theorem",
+                    "Carnot&#039;s Theorem"
+                    ]
+                    },
+                    {
+                        "category": "Science & Nature",
+                        "type": "multiple",
+                        "difficulty": "medium",
+                        "question": "Which element has the atomic number of 7?",
+                        "correct_answer": "Nitrogen",
+                        "incorrect_answers": [
+                        "Oxygen",
+                        "Hydrogen",
+                        "Neon",
+                        "Nitrogen"
+                        ]
+                        },
+                        {
+                        "category": "Science & Nature",
+                        "type": "multiple",
+                        "difficulty": "medium",
+                        "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+                        "correct_answer": "Beryllium",
+                        "incorrect_answers": [
+                        "Gallium",
+                        "Caesium",
+                        "Mercury",
+                        "Beryllium"
+                        ]
+                        },
+                        {
+                        "category": "Science & Nature",
+                        "type": "multiple",
+                        "difficulty": "medium",
+                        "question": "The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.",
+                        "correct_answer": "low, all",
+                        "incorrect_answers": [
+                        "low, some",
+                        "low, all",
+                        "high, all",
+                        "high, some"
+                        ]
+                        },
+                        {
+                        "category": "Science & Nature",
+                        "type": "multiple",
+                        "difficulty": "medium",
+                        "question": "What term is best associated with Sigmund Freud?",
+                        "correct_answer": "Psychoanalysis",
+                        "incorrect_answers": [
+                        "Cognitive-Behavioral Therapy",
+                        "Theory of Gravity",
+                        "Psychoanalysis",
+                        "Dialectical Behavior Therapy"
+                        ]
+                        },
+                        {
+                        "category": "Science & Nature",
+                        "type": "multiple",
+                        "difficulty": "medium",
+                        "question": "On which mission did the Space Shuttle Columbia break up upon re-entry?",
+                        "correct_answer": "STS-107",
+                        "incorrect_answers": [
+                        "STS-51-L",
+                        "STS-61-C",
+                        "STS-109",
+                        "STS-107"
+                        ]
+                        },
+                        {
+                        "category": "Science & Nature",
+                        "type": "multiple",
+                        "difficulty": "medium",
+                        "question": "Which chemical element was originally known as Alabamine?",
+                        "correct_answer": "Astatine",
+                        "incorrect_answers": [
+                        "Selenium",
+                        "Astatine",
+                        "Antimony",
+                        "Molybdenum"
+                        ]
+                        },
+                        {
+                        "category": "Science & Nature",
+                        "type": "multiple",
+                        "difficulty": "medium",
+                        "question": "Which of the following men does not have a chemical element named after him?",
+                        "correct_answer": "Sir Isaac Newton",
+                        "incorrect_answers": [
+                        "Albert Einstein",
+                        "Niels Bohr",
+                        "Enrico Fermi",
+                        "Sir Isaac Newton"
+                        ]
+                        },
+                        {
+                        "category": "Science & Nature",
+                        "type": "multiple",
+                        "difficulty": "medium",
+                        "question": "On the periodic table of elements, what is the symbol for Tin?",
+                        "correct_answer": "Sn",
+                        "incorrect_answers": [
+                        "Ti",
+                        "Sn",
+                        "Ni",
+                        "Na"
+                        ]
+                        },
+                        {
+                        "category": "Science & Nature",
+                        "type": "multiple",
+                        "difficulty": "medium",
+                        "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+                        "correct_answer": "Female Flower",
+                        "incorrect_answers": [
+                        "Leaves",
+                        "Male Flower",
+                        "Female Flower",
+                        "Root Ball"
+                        ]
+                        },
+                        {
+                        "category": "Science & Nature",
+                        "type": "multiple",
+                        "difficulty": "medium",
+                        "question": "When the Falcon Heavy was launched on it&#039;s test flight, what was the only part of the operation that failed?",
+                        "correct_answer": "Center Core Landing",
+                        "incorrect_answers": [
+                        "Side Booster Landing",
+                        "Deployment of Starman",
+                        "Ignition and Liftoff",
+                        "Center Core Landing"
+                        ]
+                        },
+                        {
+                            "category": "Science & Nature",
+                            "type": "multiple",
+                            "difficulty": "easy",
+                            "question": "Which Apollo mission was the first one to land on the Moon?",
+                            "correct_answer": "Apollo 11",
+                            "incorrect_answers": [
+                                "Apollo 11",
+                            "Apollo 10",
+                            "Apollo 9",
+                            "Apollo 13"
+                            ]
+                            },
+                            {
+                            "category": "Science & Nature",
+                            "type": "multiple",
+                            "difficulty": "easy",
+                            "question": "What is the &quot;powerhouse&quot; of the Eukaryotic animal cell?",
+                            "correct_answer": "Mitochondria",
+                            "incorrect_answers": [
+                            "Nucleus",
+                            "Chloroplast",
+                            "Mitochondria",
+                            "Endoplasmic Reticulum"
+                            ]
+                            },
+                            {
+                            "category": "Science & Nature",
+                            "type": "multiple",
+                            "difficulty": "easy",
+                            "question": "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+                            "correct_answer": "Nitrogen",
+                            "incorrect_answers": [
+                            "Oxygen",
+                            "Argon",
+                            "Nitrogen",
+                            "Carbon Dioxide"
+                            ]
+                            },
+                            {
+                            "category": "Science & Nature",
+                            "type": "multiple",
+                            "difficulty": "easy",
+                            "question": "What does DNA stand for?",
+                            "correct_answer": "Deoxyribonucleic Acid",
+                            "incorrect_answers": [
+                            "Deoxyribogenetic Acid",
+                            "Deoxyribonucleic Acid",
+                            "Deoxyribogenetic Atoms",
+                            "Detoxic Acid"
+                            ]
+                            },
+                            {
+                            "category": "Science & Nature",
+                            "type": "multiple",
+                            "difficulty": "easy",
+                            "question": "The human heart has how many chambers?",
+                            "correct_answer": "4",
+                            "incorrect_answers": [
+                            "2",
+                            "6",
+                            "4",
+                            "3"
+                            ]
+                            },
+                            {
+                            "category": "Science & Nature",
+                            "type": "multiple",
+                            "difficulty": "easy",
+                            "question": "Which is the most abundant element in the universe?",
+                            "correct_answer": "Hydrogen",
+                            "incorrect_answers": [
+                            "Helium",
+                            "Lithium",
+                            "Oxygen",
+                            "Hydrogen"
+                            ]
+                            },
+                            {
+                            "category": "Science & Nature",
+                            "type": "multiple",
+                            "difficulty": "easy",
+                            "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+                            "correct_answer": "The presence or absence of a nucleus",
+                            "incorrect_answers": [
+                            "The overall size",
+                            "The presence or absence of a nucleus",
+                            "The presence or absence of certain organelles",
+                            "The mode of reproduction"
+                            ]
+                            },
+                            {
+                            "category": "Science & Nature",
+                            "type": "multiple",
+                            "difficulty": "easy",
+                            "question": "What does LASER stand for?",
+                            "correct_answer": "Light amplification by stimulated emission of radiation",
+                            "incorrect_answers": [
+                            "Lite analysing by stereo ecorazer",
+                            "Light amplifier by standby energy of radio",
+                            "Life antimatter by standing entry of range",
+                            "Light amplification by stimulated emission of radiation"
+                            ]
+                            },
+                            {
+                            "category": "Science & Nature",
+                            "type": "multiple",
+                            "difficulty": "easy",
+                            "question": "Which of these Elements is a metalloid?",
+                            "correct_answer": "Antimony",
+                            "incorrect_answers": [
+                            "Tin",
+                            "Bromine",
+                            "Antimony",
+                            "Rubidium"
+                            ]
+                            },
+                            {
+                            "category": "Science & Nature",
+                            "type": "multiple",
+                            "difficulty": "easy",
+                            "question": "Who discovered the Law of Gravity?",
+                            "correct_answer": "Sir Isaac Newton",
+                            "incorrect_answers": [
+                            "Galileo Galilei",
+                            "Sir Isaac Newton",
+                            "Charles Darwin",
+                            "Albert Einstein"
+                            ]
+                            },
+                            {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "hard",
+                                "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+                                "correct_answer": "Nine",
+                                "incorrect_answers": [
+                                    "Nine",
+                                "Ten",
+                                "Seven",
+                                "Eight"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "hard",
+                                "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+                                "correct_answer": "Hammer",
+                                "incorrect_answers": [
+                                "Wrench",
+                                "Drill",
+                                "Hammer",
+                                "Screwdriver"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "hard",
+                                "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+                                "correct_answer": "Mazda",
+                                "incorrect_answers": [
+                                "Toyota",
+                                "Subaru",
+                                "Mazda",
+                                "Nissan"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "hard",
+                                "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+                                "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+                                "incorrect_answers": [
+                                "Cristiano Ronaldo los Santos Diego",
+                                "Cristiano Armando Diego Ronaldo",
+                                "Cristiano Luis Armando Ronaldo",
+                                "Cristiano Ronaldo dos Santos Aveiro"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "hard",
+                                "question": "Which year was the third Super Bowl held?",
+                                "correct_answer": "1969",
+                                "incorrect_answers": [
+                                "1968",
+                                "1971",
+                                "1970",
+                                "1969"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "hard",
+                                "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+                                "correct_answer": "Pittsburgh",
+                                "incorrect_answers": [
+                                    "Pittsburgh",
+                                "New York",
+                                "Seattle",
+                                "Tampa Bay"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "hard",
+                                "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+                                "correct_answer": "Eric Cantona",
+                                "incorrect_answers": [
+                                "David Seamen",
+                                "Eric Cantona",
+                                "Ashley Cole",
+                                "Mark Hughes"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "hard",
+                                "question": "Who is Manchester United&#039;s leading appearance maker?",
+                                "correct_answer": "Ryan Giggs",
+                                "incorrect_answers": [
+                                "David Beckham",
+                                "Ryan Giggs",
+                                "Wayne Rooney",
+                                "Eric Cantona"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "hard",
+                                "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+                                "correct_answer": "1991",
+                                "incorrect_answers": [
+                                "1990",
+                                "2000",
+                                "1987",
+                                "1991"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "hard",
+                                "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+                                "correct_answer": "Horse Racing",
+                                "incorrect_answers": [
+                                "Chess",
+                                "Horse Racing",
+                                "Jousting",
+                                "Fencing"
+                            ]
+                            },
+                            {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "medium",
+                                "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+                                "correct_answer": "Putney",
+                                "incorrect_answers": [
+                                "Hammersmith",
+                                "Vauxhall ",
+                                "Battersea",
+                                "Putney"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "medium",
+                                "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+                                "correct_answer": "Puma",
+                                "incorrect_answers": [
+                                "Nike",
+                                "Puma",
+                                "Adidas",
+                                "Reebok"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "medium",
+                                "question": "What is the nickname of Northampton town&#039;s rugby union club?",
+                                "correct_answer": "Saints",
+                                "incorrect_answers": [
+                                "Harlequins",
+                                "Saracens",
+                                "Saints",
+                                "Wasps"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "medium",
+                                "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+                                "correct_answer": "Mercedes-AMG Petronas",
+                                "incorrect_answers": [
+                                "Scuderia Ferrari",
+                                "McLaren Honda",
+                                "Mercedes-AMG Petronas",
+                                "Red Bull Racing Renault"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "medium",
+                                "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+                                "correct_answer": "American Football",
+                                "incorrect_answers": [
+                                "Wrestling",
+                                "Archery",
+                                "American Football",
+                                "Horse-Racing"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "medium",
+                                "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+                                "correct_answer": "Shaquille O&#039;Neal",
+                                "incorrect_answers": [
+                                    "Shaquille O&#039;Neal",
+                                "Allen Iverson",
+                                "Kobe Bryant",
+                                "Paul Pierce"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "medium",
+                                "question": "In what sport does Fanny Chmelar compete for Germany?",
+                                "correct_answer": "Skiing",
+                                "incorrect_answers": [
+                                "Swimming",
+                                "Showjumping",
+                                "Gymnastics",
+                                "Skiing"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "medium",
+                                "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+                                "correct_answer": "Toronto Marlies",
+                                "incorrect_answers": [
+                                "Toronto Rock",
+                                "Toronto Argonauts",
+                                "Toronto Marlies",
+                                "Toronto Wolfpack"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "medium",
+                                "question": "What country hosted the 2014 Winter Olympics?",
+                                "correct_answer": "Russia",
+                                "incorrect_answers": [
+                                "Canada",
+                                "Russia",
+                                "United States",
+                                "Germany"
+                                ]
+                                },
+                                {
+                                "category": "Sports",
+                                "type": "multiple",
+                                "difficulty": "medium",
+                                "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+                                "correct_answer": "James Rodr&iacute;guez",
+                                "incorrect_answers": [
+                                "Thomas M&uuml;ller",
+                                "Lionel Messi",
+                                "James Rodr&iacute;guez",
+                                "Neymar"
+                                ]
+                                 },
+                                 {
+                                    "category": "Sports",
+                                    "type": "multiple",
+                                    "difficulty": "easy",
+                                    "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+                                    "correct_answer": "Leicester City",
+                                    "incorrect_answers": [
+                                        "Leicester City",
+                                    "Northampton Town",
+                                    "Bradford City",
+                                    "West Bromwich Albion"
+                                    ]
+                                    },
+                                    {
+                                    "category": "Sports",
+                                    "type": "multiple",
+                                    "difficulty": "easy",
+                                    "question": "Which team won the 2015-16 English Premier League?",
+                                    "correct_answer": "Leicester City",
+                                    "incorrect_answers": [
+                                    "Liverpool",
+                                    "Cheslea",
+                                    "Leicester City",
+                                    "Manchester United"
+                                    ]
+                                    },
+                                    {
+                                    "category": "Sports",
+                                    "type": "multiple",
+                                    "difficulty": "easy",
+                                    "question": "In baseball, how many fouls are an out?",
+                                    "correct_answer": "0",
+                                    "incorrect_answers": [
+                                    "5",
+                                    "3",
+                                    "0",
+                                    "2"
+                                    ]
+                                    },
+                                    {
+                                    "category": "Sports",
+                                    "type": "multiple",
+                                    "difficulty": "easy",
+                                    "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+                                    "correct_answer": "Michael Schumacher",
+                                    "incorrect_answers": [
+                                    "Ayrton Senna",
+                                    "Fernando Alonso",
+                                    "Jim Clark",
+                                    "Michael Schumacher"
+                                    ]
+                                    },
+                                    {
+                                    "category": "Sports",
+                                    "type": "multiple",
+                                    "difficulty": "easy",
+                                    "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+                                    "correct_answer": "Mike Tyson",
+                                    "incorrect_answers": [
+                                    "Roy Jones Jr.",
+                                    "Evander Holyfield",
+                                    "Mike Tyson",
+                                    "Lennox Lewis"
+                                    ]
+                                    },
+                                    {
+                                    "category": "Sports",
+                                    "type": "multiple",
+                                    "difficulty": "easy",
+                                    "question": "Which player holds the NHL record of 2,857 points?",
+                                    "correct_answer": "Wayne Gretzky",
+                                    "incorrect_answers": [
+                                    "Mario Lemieux ",
+                                    "Sidney Crosby",
+                                    "Gordie Howe",
+                                    "Wayne Gretzky"
+                                    ]
+                                    },
+                                    {
+                                    "category": "Sports",
+                                    "type": "multiple",
+                                    "difficulty": "easy",
+                                    "question": "Who did Steven Gerrard win the Champions League with?",
+                                    "correct_answer": "Liverpool",
+                                    "incorrect_answers": [
+                                        "Liverpool",
+                                    "Real Madrid",
+                                    "Chelsea",
+                                    "Man City"
+                                    ]
+                                    },
+                                    {
+                                    "category": "Sports",
+                                    "type": "multiple",
+                                    "difficulty": "easy",
+                                    "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+                                    "correct_answer": "Sunderland FC",
+                                    "incorrect_answers": [
+                                    "Barcelona FC",
+                                    "Paris Saints-Germain",
+                                    "Sunderland FC",
+                                    "Manchester United"
+                                    ]
+                                    },
+                                    {
+                                    "category": "Sports",
+                                    "type": "multiple",
+                                    "difficulty": "easy",
+                                    "question": "Which country will host the 2022 FIFA World Cup?",
+                                    "correct_answer": "Qatar",
+                                    "incorrect_answers": [
+                                    "USA",
+                                    "Japan",
+                                    "Switzerland",
+                                    "Qatar"
+                                    ]
+                                    },
+                                    {
+                                    "category": "Sports",
+                                    "type": "multiple",
+                                    "difficulty": "easy",
+                                    "question": "Which two teams played in Super Bowl XLII?",
+                                    "correct_answer": "The New York Giants &amp; The New England Patriots",
+                                    "incorrect_answers": [
+                                    "The Green Bay Packers &amp; The Pittsburgh Steelers",
+                                    "The Philadelphia Eagles &amp; The New England Patriots",
+                                    "The New York Giants &amp; The New England Patriots",
+                                    "The Seattle Seahawks &amp; The Denver Broncos"
+                                    ]
+                                }
+
+
+                           
+
+    ]
